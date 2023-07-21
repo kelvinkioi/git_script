@@ -1,6 +1,6 @@
 # THIS IS A BASH SCRIPT ON GIT(add, commit, push)
 
-##How to use the file
+## How to use the file
 -Git clone the file in the directory /usr/local/bin
 -cd into the directory you want to commit files
 -To add commit and push all files; **gpush 'commit message'**
