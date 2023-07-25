@@ -1,5 +1,5 @@
 # THIS IS A BASH SCRIPT ON GIT(add, commit, push)
-![git add](/root/labs/git_script/images/git_add.png)
+![git add](/images/git_add.png)
 
 
 ## How to use the file
