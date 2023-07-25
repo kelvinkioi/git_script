@@ -1,5 +1,7 @@
 # THIS IS A BASH SCRIPT ON GIT(add, commit, push)
-![git add](/images/git_add.png) ![git commit](/images/git_commit.png) ![git push](/images/git_push.png)
+![git add](/images/git_add.png)
+![git commit](/images/git_commit.png)
+![git push](/images/git_push.png)
 
 ## How to use the file
 - git clone the file in the directory /usr/local/bin
